@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://whinserat.github.io/sitemap.html.gz
+Sitemap: https://whinserat.github.io/app/sitemap.html.gz
+Sitemap: https://whinserat.github.io/assets/sitemap.html.gz
+Sitemap: https://whinserat.github.io/css/sitemap.html.gz
+Sitemap: https://whinserat.github.io/includes/sitemap.html.gz
+Sitemap: https://whinserat.github.io/item/sitemap.html.gz
+Sitemap: https://whinserat.github.io/src/sitemap.html.gz
